@@ -1,6 +1,13 @@
 # Agenda de Contatos
 Este é um simples programa em C para gerenciar uma agenda de contatos.
 
+# Imagens de Demonstração
+
+<p float="left">
+  <img src="imagens/tela1.JPG" width="300" />
+  <img src="imagens/tela2.JPG" width="300" />
+</p>
+
 # Funcionalidades
 
 1. **Cadastrar Contato**
