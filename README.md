@@ -27,10 +27,10 @@ Este é um simples programa em C para gerenciar uma agenda de contatos.
 Para compilar o programa, utilize um compilador C padrão, por exemplo:
 1. **Compilar:**
    ```bash
-   gcc main.c -o agenda
+   gcc main.c -o nome_que_deseja_salvar
 2. **executar:**
    ```bash
-   ./agenda
+   ./nome_que_deseja_salvar
 Certifique-se de seguir esses passos na linha de comando do terminal para compilar e executar o programa corretamente. 
 
 Se o problema persistir, verifique se o nome do arquivo (index.c) está correto e se o compilador está instalado corretamente em seu sistema.
