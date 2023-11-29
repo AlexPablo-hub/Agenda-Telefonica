@@ -27,7 +27,7 @@ Este é um simples programa em C para gerenciar uma agenda de contatos.
 Para compilar o programa, utilize um compilador C padrão, por exemplo:
 1. **Compilar:**
    ```bash
-   gcc index.c -o agenda
+   gcc main.c -o agenda
 2. **executar:**
    ```bash
    ./agenda
