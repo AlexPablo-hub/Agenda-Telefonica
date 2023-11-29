@@ -22,8 +22,7 @@ typedef struct Pessoa
 } Pessoa;
 
 // Função para editar um contato existente, passa como parâmetro o vetor de contatos e o indice do contato a ser editado.
-void editar(Pessoa *pessoa, int indice)
-{
+void editar(Pessoa *pessoa, int indice) {
     // Solicita o novo nome
     printf("\n Novo Nome: ");
     fflush(stdin);
@@ -40,8 +39,7 @@ void editar(Pessoa *pessoa, int indice)
 }
 
 // Função para salvar os contatos no arquivo contatos.txt, passa como parâmetro o vetor de contatos e o indice do contato a ser salvo.
-void salvar_contatos(Pessoa *contatos, int indice)
-{
+void salvar_contatos(Pessoa *contatos, int indice) {
     // Abre o arquivo para escrita
     FILE *arquivo;
     arquivo = fopen("contatos.txt", "w"); // fopen é uma função que abre um arquivo, w é uma flag que indica que o arquivo será aberto para escrita
