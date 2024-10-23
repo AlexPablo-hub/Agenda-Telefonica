@@ -44,7 +44,11 @@ Se o problema persistir, verifique se o nome do arquivo (index.c) está correto 
 # Contribuições
 Sinta-se à vontade para utilizar, modificar e contribuir para aprimorar este código, sinta-se à vontade para enviar um pull request. Fico feliz com sugestões e melhorias!
 
-# Autor
-Este programa foi criado por Alex Pablo.
+# 👨‍💻 Desenvolvedor
+Este projeto foi desenvolvido por Alex Pablo de Oliveira Moraes.
 
-Curso de Sistemas de Informação - UNEMAT.
+Sou estudante de Sistemas de Informação na UNEMAT, apaixonado por tecnologia, programação e segurança de redes e tecnologias relacionadas ao desenvolvimento backend e segurança da informação.
+
+Você pode me encontrar nas redes sociais ou conferir meus outros projetos no meu perfil [GitHub](https://github.com/AlexPablo-hub).
+
+Se tiver alguma dúvida ou sugestão sobre o projeto, fique à vontade para entrar em contato!
